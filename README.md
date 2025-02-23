@@ -16,21 +16,13 @@
 
 Sample Accounts to use, this are in the code if you want to change you can change:
 
-        
-
-    *Account no. - 1234567890*
-    
-     *PIN -* 1234 
-    
-     *Available Money -* 1000      
-
+      Account no. - 1234567890
+      PIN - 1234 
+      Available Money - 1000      
      
-  
-     >*Account no. - 9876543210*
-      
-     >*PIN -* 5678 
-     
-     >*Available Money -* 500
+      Account no. - 9876543210
+      PIN - 5678 
+      Available Money - 500
 
 
 **Here are some key points from the above ATM simulation code:**
