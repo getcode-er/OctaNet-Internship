@@ -3,15 +3,10 @@
 ****ATM Machine Simulation using Python****
 
 **Functions to Include:**
-
-    **Account balance inquiry*
-    
+    **Account balance inquiry* 
     **Cash withdrawal*
-    
-    **Cash deposit*
-    
+    **Cash deposit*    
     **PIN change*
-    
     **Transaction history*
 
 Sample Accounts to use, this are in the code if you want to change you can change:
