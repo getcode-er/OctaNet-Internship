@@ -3,30 +3,24 @@
 ****ATM Machine Simulation using Python****
 
 **Functions to Include:**
-    **Account balance inquiry* 
-    **Cash withdrawal*
-    **Cash deposit*    
-    **PIN change*
-    **Transaction history*
+   **Account balance inquiry* 
+   **Cash withdrawal*
+   **Cash deposit*    
+   **PIN change*
+   **Transaction history*
 
 Sample Accounts to use, this are in the code if you want to change you can change:
 
-**1.** 
-         
-       *Account no. - 1234567890*
-       
-       *PIN -* 1234 
-       
-       *Available Money -* 1000
+**1.**   
+ *Account no. - 1234567890*
+  *PIN -* 1234 
+  *Available Money -* 1000      
 
 
 **2.** 
-      
       *Account no. - 9876543210*
-
-       *PIN -* 5678 
-       
-       *Available Money -* 500
+      *PIN -* 5678 
+      *Available Money -* 500
 
 
 **Here are some key points from the above ATM simulation code:
