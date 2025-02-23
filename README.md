@@ -1,47 +1,47 @@
 # OctaNet-Internship
 
-****ATM Machine Simulation using Python****
+****----ATM MACHINE SIMULATION using PYTHON----****
 
 **# Functions to Include:**
-   **Account balance inquiry* 
+
+   >**Account balance inquiry* 
    
-   **Cash withdrawal*
+   >**Cash withdrawal*
    
-   **Cash deposit*    
+   >**Cash deposit*    
    
-   **PIN change*
+   >**PIN change*
    
-   **Transaction history*
+   >**Transaction history*
 
 Sample Accounts to use, this are in the code if you want to change you can change:
 
 **1.**   
 
- *Account no. - 1234567890*
+ >*Account no. - 1234567890*
  
-  *PIN -* 1234 
+  >*PIN -* 1234 
  
-  *Available Money -* 1000      
+  >*Available Money -* 1000      
 
 
 **2.**       
   
-  *Account no. - 9876543210*
+  >*Account no. - 9876543210*
    
-  *PIN -* 5678 
+  >*PIN -* 5678 
   
-  *Available Money -* 500
+  >*Available Money -* 500
 
 
-**Here are some key points from the above ATM simulation code:
-**
+**Here are some key points from the above ATM simulation code:**
 
 
 *Class-Based Approach:*
 
 > The code defines an ATM class to encapsulate account details and operations.
 
-> Encapsulation of Account Details:
+*Encapsulation of Account Details:*
 
 > Each account has attributes: *account_number, pin, balance, and transaction_history.*
 
@@ -50,22 +50,29 @@ Sample Accounts to use, this are in the code if you want to change you can chang
 
 *Security Measures:*
 
-PIN verification allows only 3 attempts before locking the account.
+> PIN verification allows only 3 attempts before locking the account.
 
-User-Friendly ATM Menu:
 
-Provides options to access various banking operations.
-Error Handling:
+*User-Friendly ATM Menu:*
 
-Prevents overdrawing from the account.
-Ensures deposits are positive values.
-Ensures only valid menu choices are accepted.
-Dictionary-Based Account Management:
+> Provides options to access various banking operations.
 
-A dictionary (accounts) stores multiple ATM objects for different account holders.
-Simulation of an ATM Machine:
+*Error Handling:*
 
-Uses a loop to interact with the user until they exit.
+> Prevents overdrawing from the account.
+
+> Ensures deposits are positive values.
+
+> Ensures only valid menu choices are accepted.
+
+*Dictionary-Based Account Management:*
+
+> A dictionary (accounts) stores multiple ATM objects for different account holders.
+
+
+*Simulation of an ATM Machine:*
+
+> Uses a loop to interact with the user until they exit.
 
 
 
