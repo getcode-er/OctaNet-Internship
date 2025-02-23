@@ -2,7 +2,7 @@
 
 ****ATM Machine Simulation using Python****
 
-**Functions to Include:**
+**# Functions to Include:**
    **Account balance inquiry* 
    
    **Cash withdrawal*
@@ -35,17 +35,23 @@ Sample Accounts to use, this are in the code if you want to change you can chang
 
 **Here are some key points from the above ATM simulation code:
 **
-Class-Based Approach:
 
-The code defines an ATM class to encapsulate account details and operations.
-Encapsulation of Account Details:
 
-Each account has attributes: *account_number, pin, balance, and transaction_history.*
+*Class-Based Approach:*
 
-Every deposit, withdrawal, and PIN change is recorded with a timestamp.
-Security Measures:
+> The code defines an ATM class to encapsulate account details and operations.
+
+> Encapsulation of Account Details:
+
+> Each account has attributes: *account_number, pin, balance, and transaction_history.*
+
+> Every deposit, withdrawal, and PIN change is recorded with a timestamp.
+
+
+*Security Measures:*
 
 PIN verification allows only 3 attempts before locking the account.
+
 User-Friendly ATM Menu:
 
 Provides options to access various banking operations.
